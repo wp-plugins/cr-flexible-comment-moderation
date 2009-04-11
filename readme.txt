@@ -17,7 +17,7 @@ a wordpress plugin that will allow you to flexibly set comment moderation mode o
 
 1. Upload `cr-flexible-comment-moderation` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to `Posts &nraquo; Add New` or `Posts &nraquo; Edit`, then look for options on `Advanced Moderation`panel.
+1. Go to `Posts » Add New` or `Posts » Edit`, then look for options on `Advanced Moderation`panel.
 
 == Frequently Asked Questions ==
 
